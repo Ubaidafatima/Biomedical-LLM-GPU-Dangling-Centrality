@@ -18,6 +18,7 @@ The **15.62x result applies to the graph-auditing stage**. When the common BioGP
 - Adaptive CPU/GPU crossover: 23 nodes
 - Hardware used for the reported benchmark: NVIDIA A100-SXM4-40GB
 - Backends: NetworkX CPU, matched NumPy CPU, ordinary CUDA/CuPy, batched CUDA/CuPy, adaptive CPU/CUDA
+- Zenodo archival release prepared for NVIDIA GTC 2027.
 
 Calibration-only tuning was completed before the 150 held-out graphs were evaluated.
 
