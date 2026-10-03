@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark package, please cite it using the metadata below."
+title: "Biomedical LLM GPU Dangling Centrality: Reproducibility Code and Benchmarks"
+type: software
+authors:
+  - family-names: Fatima
+    given-names: Ubaida
+  - family-names: Ali
+    given-names: Mustafain
+year: 2026
+version: 1.0.0
